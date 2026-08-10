@@ -1,0 +1,19 @@
+CGPA,Attendance,FamilyIncome,Backlogs,Scholarship
+9.4,95,350000,0,Eligible
+9.1,92,420000,0,Eligible
+8.9,90,380000,0,Eligible
+8.7,88,300000,0,Eligible
+8.3,91,180000,0,Eligible
+8.0,89,170000,0,Eligible
+7.9,87,150000,1,Eligible
+7.7,92,190000,1,Eligible
+7.5,90,160000,1,Eligible
+7.3,88,140000,1,Eligible
+8.1,83,260000,1,Not Eligible
+7.7,84,160000,2,Not Eligible
+7.5,82,180000,2,Not Eligible
+7.2,80,220000,1,Not Eligible
+7.0,78,250000,2,Not Eligible
+6.8,76,300000,3,Not Eligible
+6.5,74,450000,2,Not Eligible
+6.9,88,210000,0,Not Eligible
