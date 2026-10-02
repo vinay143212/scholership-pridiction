@@ -3,7 +3,7 @@
 A Python CLI mini project that uses the **Sequential Covering Algorithm** to learn scholarship eligibility rules from student data and predict whether a new student is eligible for a scholarship.
 
 ## Project Overview
-
+  
 This project demonstrates how a machine learning rule-learning algorithm can learn simple decision rules from a dataset.
 
 The system analyzes student information such as:
