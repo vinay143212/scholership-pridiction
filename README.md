@@ -29,7 +29,7 @@ In this project, the algorithm:
 3. Checks wrongly covered students. 
 4. Selects a better rule.
 5. Removes students already covered.
-6. Learns another rule for remaining students.
+6. Learns another rule for remaining students.   
 7. Uses the learned rules for prediction.
 
 ## Example Learned Rules
