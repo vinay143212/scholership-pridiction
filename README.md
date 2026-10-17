@@ -7,7 +7,7 @@ A Python CLI mini project that uses the **Sequential Covering Algorithm** to lea
 This project demonstrates how a machine learning rule-learning algorithm can learn simple decision rules from a dataset.
 
 The system analyzes student information such as:
-
+  
 * CGPA
 * Attendance
 * Family Income
