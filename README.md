@@ -1,6 +1,6 @@
 # Scholarship Rule Learning System  
     
-A Python CLI mini project that uses the **Sequential Covering Algorithm** to learn scholarship eligibility rules from student data and predict whether a new student is eligible for a scholarship.  
+A Python CLI mini project that uses the **Sequential Covering Algorithm** to learn scholarship eligibility rules from student data and predict whether a new student is eligible for a   scholarship.  
 
 ## Project Overview
   
