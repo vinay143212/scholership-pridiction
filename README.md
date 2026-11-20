@@ -27,7 +27,7 @@ In this project, the algorithm:
 1. Finds eligible students.
 2. Creates a possible rule.
 3. Checks wrongly covered students.     
-4. Selects a better rule.
+4. Selects a better rule.    
 5. Removes students already covered.
 6. Learns another rule for remaining students.   
 7. Uses the learned rules for prediction.
